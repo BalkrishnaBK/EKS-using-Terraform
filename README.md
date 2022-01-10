@@ -101,7 +101,7 @@ terraform destroy
 
 ## License
 
-MIT License
+[MIT License](https://github.com/BalkrishnaBK/EKS-using-Terraform/blob/main/LICENSE)
 
 **Free Software, Hell Yeah!**
 
